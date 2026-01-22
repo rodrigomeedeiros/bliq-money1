@@ -1,0 +1,22 @@
+
+{
+  "name": "BLIQ MONEY",
+  "short_name": "Bliq",
+  "description": "Gestão Financeira Premium com Inteligência Artificial",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10434/10434033.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
